@@ -1,0 +1,129 @@
+.box{
+    width: 1000px;
+    background-color: aquamarine;
+    border: 5px solid red;
+    margin: 0 auto;        
+}
+.bg-red{
+  background-color: red;  
+}
+.bg-brown{
+  background-color: brown;  
+}
+.bg-orange{
+  background-color: orange;  
+}
+.bg-yellow{
+  background-color: yellow;
+}
+.bg-blue {
+  background-color: blue;
+}
+.bg-peru{
+  background-color: peru;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-black{
+    background-color: black;
+}
+.header, .footer{
+    height: 200px;
+}
+.menu{
+    height: 150px;
+}
+.left, .center, .right{
+    height: 400px;
+}
+.w-33{
+    width: 33.3%
+}
+.float-l{
+  float: left
+}
+.clear{
+    clear: both
+}
+.shuruna-80{
+    width: 80%;
+    height: 60%;
+}
+.shuruna-60{
+    width: 60%;
+    height: 60%
+}
+.shuruna-25{
+    width: 250px;
+    height: 130px; 
+}
+.shuruna-50{
+    width: 50%;
+}
+.vusota-50{
+   height: 50%; 
+}
+.vusota-60{
+   height: 60%; 
+}
+.vusota-40{
+   height: 40%; 
+}
+.shuruna-40{
+    width: 40%;
+}
+p{
+    text-align: center;
+    margin-top: 0px;
+}
+.vshap1{
+    margin-left: 100px;
+}
+.vshap2{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.sub-left{
+    margin-left: 33px;
+    margin-top: 70px;
+}
+.vsub-l{
+    margin-top: 83px;
+}
+.vcenter{
+    margin-top: 150px;
+}
+.vright1{
+    margin-top: 148px;
+}
+.vright2{
+    margin-top: 90px;
+}
+.vright3{
+    margin-top: 40px;
+}
+.vvcent1{
+    margin-top: 70px;
+}
+.vvcent2{
+    margin-top: 90px;
+}
+.shuruna-20{
+    width: 20%;
+    height: 10%;
+}
+.vvvright1{
+        margin-top: 50px;
+}
+.vvvright2{
+    margin-left: 88px;
+    margin-top: 50px;
+}
+.lsubm{
+    margin-top: 20px;
+}
+.lrsubm{
+    margin-top: 20px;
+    margin-left: 23px;
+}
